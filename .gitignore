@@ -1,0 +1,15 @@
+# Vertual environment
+venv/
+
+# Environment variable
+.env
+
+# Python cache
+*__pychache__/ 
+*.pyc
+
+# Jupyter checkpoints
+*.ipynb_checkpoints/
+
+# Larage files
+*.csv
